@@ -1,0 +1,7 @@
+﻿  zad1.c
+C:\Users\Uzivatel\Desktop\faks\STRUKTURE PODATAKA 22 23\Lab 1zad\Lab 1zad\zad1.c(9,1): warning C4005: 'EXIT_SUCCESS': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\stdlib.h(52): message : see previous definition of 'EXIT_SUCCESS'
+C:\Users\Uzivatel\Desktop\faks\STRUKTURE PODATAKA 22 23\Lab 1zad\Lab 1zad\zad1.c(10,1): warning C4005: 'EXIT_FAILURE': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\stdlib.h(53): message : see previous definition of 'EXIT_FAILURE'
+C:\Users\Uzivatel\Desktop\faks\STRUKTURE PODATAKA 22 23\Lab 1zad\Lab 1zad\zad1.c(102,22): warning C4047: 'return': 'student *' differs in levels of indirection from 'int'
+  Lab 1zad.vcxproj -> C:\Users\Uzivatel\Desktop\faks\STRUKTURE PODATAKA 22 23\Lab 1zad\Debug\Lab 1zad.exe
