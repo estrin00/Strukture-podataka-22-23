@@ -1,0 +1,4 @@
+﻿  zad2.c
+C:\Users\Uzivatel\Desktop\faks\STRUKTURE PODATAKA 22 23\LABOVI\Lab 2zad\Lab2zad\Lab2zad\zad2.c(180,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'pozicija'
+C:\Users\Uzivatel\Desktop\faks\STRUKTURE PODATAKA 22 23\LABOVI\Lab 2zad\Lab2zad\Lab2zad\zad2.c(241,12): warning C4047: 'return': 'pozicija' differs in levels of indirection from 'int'
+  Lab2zad.vcxproj -> C:\Users\Uzivatel\Desktop\faks\STRUKTURE PODATAKA 22 23\LABOVI\Lab 2zad\Lab2zad\Debug\Lab2zad.exe
