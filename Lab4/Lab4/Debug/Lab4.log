@@ -1,0 +1,4 @@
+﻿  zad.c
+C:\Users\Uzivatel\Desktop\faks\STRUKTURE PODATAKA 22 23\LABOVI\Lab4\Lab4\zad.c(106,23): warning C4133: 'function': incompatible types - from 'FILE *' to 'const char *const '
+C:\Users\Uzivatel\Desktop\faks\STRUKTURE PODATAKA 22 23\LABOVI\Lab4\Lab4\zad.c(121,23): warning C4133: 'function': incompatible types - from 'FILE *' to 'const char *const '
+  Lab4.vcxproj -> C:\Users\Uzivatel\Desktop\faks\STRUKTURE PODATAKA 22 23\LABOVI\Lab4\Debug\Lab4.exe
