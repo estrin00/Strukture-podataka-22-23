@@ -1,0 +1,10 @@
+﻿  zad.c
+C:\Users\Uzivatel\Desktop\faks\STRUKTURE PODATAKA 22 23\LABOVI\Lab7\Lab7\zad.c(6,1): warning C4005: 'EXIT_FAILURE': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\stdlib.h(53): message : see previous definition of 'EXIT_FAILURE'
+C:\Users\Uzivatel\Desktop\faks\STRUKTURE PODATAKA 22 23\LABOVI\Lab7\Lab7\zad.c(7,1): warning C4005: 'EXIT_SUCCESS': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\stdlib.h(52): message : see previous definition of 'EXIT_SUCCESS'
+C:\Users\Uzivatel\Desktop\faks\STRUKTURE PODATAKA 22 23\LABOVI\Lab7\Lab7\zad.c(77,23): warning C4133: '=': incompatible types - from 'StogPozicija' to 'DirPozicija'
+C:\Users\Uzivatel\Desktop\faks\STRUKTURE PODATAKA 22 23\LABOVI\Lab7\Lab7\zad.c(113,10): warning C4047: 'return': 'StogPozicija' differs in levels of indirection from 'int'
+C:\Users\Uzivatel\Desktop\faks\STRUKTURE PODATAKA 22 23\LABOVI\Lab7\Lab7\zad.c(126,10): warning C4047: 'return': 'DirPozicija' differs in levels of indirection from 'int'
+C:\Users\Uzivatel\Desktop\faks\STRUKTURE PODATAKA 22 23\LABOVI\Lab7\Lab7\zad.c(236,10): warning C4133: 'return': incompatible types - from 'DirPozicija' to 'StogPozicija'
+  Lab7.vcxproj -> C:\Users\Uzivatel\Desktop\faks\STRUKTURE PODATAKA 22 23\LABOVI\Lab7\Debug\Lab7.exe
