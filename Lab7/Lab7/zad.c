@@ -155,6 +155,8 @@ DirPozicija md(DirPozicija trenutni, DirPozicija element)
 		printf("Taj naziv vec postoji!\n");
 	}
 
+
+
 	return trenutni;
 }
 

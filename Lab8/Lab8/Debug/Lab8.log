@@ -1,0 +1,7 @@
+﻿  zad8.c
+C:\Users\Uzivatel\Desktop\faks\STRUKTURE PODATAKA 22 23\LABOVI\Lab8\Lab8\zad8.c(147,32): warning C4047: '>': 'int' differs in levels of indirection from 'position'
+C:\Users\Uzivatel\Desktop\faks\STRUKTURE PODATAKA 22 23\LABOVI\Lab8\Lab8\zad8.c(167,12): warning C4047: 'return': 'position' differs in levels of indirection from 'int'
+C:\Users\Uzivatel\Desktop\faks\STRUKTURE PODATAKA 22 23\LABOVI\Lab8\Lab8\zad8.c(239,3): warning C4033: 'ispisTrenutneRazine' must return a value
+C:\Users\Uzivatel\Desktop\faks\STRUKTURE PODATAKA 22 23\LABOVI\Lab8\Lab8\zad8.c(263): warning C4716: 'ispisLevelorder': must return a value
+C:\Users\Uzivatel\Desktop\faks\STRUKTURE PODATAKA 22 23\LABOVI\Lab8\Lab8\zad8.c(252): warning C4715: 'ispisTrenutneRazine': not all control paths return a value
+  Lab8.vcxproj -> C:\Users\Uzivatel\Desktop\faks\STRUKTURE PODATAKA 22 23\LABOVI\Lab8\Debug\Lab8.exe
